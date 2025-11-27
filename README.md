@@ -22,6 +22,11 @@ Aqui você encontra todos os materiais de apoio (códigos-fonte, mapas mentais e
 * **O que você encontra:** O script evoluído (`v3`) que transforma o bot em uma ferramenta de automação, implementando o **Gatilho de Saída** e a **Persistência de Dados** (salvando o lead em JSON).
 * **[Clique aqui para ver os arquivos da Aula 3](./aula-03/)**
 
+### ➡️ **[Aula 4: Tirando o Bot do Terminal (API FastAPI)](https://youtu.be/aU98ciFiU14)**
+* **O que você encontra:** O Mapa Mental explicativo da arquitetura.
+    * 🗺️ **Mapa Visual:** O diagrama da estrutura de pastas e funcionamento da API.
+* **[Clique aqui para ver o material da Aula 4](./chatbot-ia-aula-4/)**
+
 ---
 
 ## 🤔 Como Usar
